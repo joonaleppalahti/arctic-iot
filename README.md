@@ -4,9 +4,8 @@ Päätimme toteuttaa IoT-kurssilla ryhmän jäsenen Jori Laineen idean tuulettim
 
 ## Osat
 
-1.
+1. Alusta ja Arduino UNO Freaduino v 1.8.1
 <p align="center">
-  <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/1.jpg" width="600"/>
   <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/2.jpg" width="600"/>
 </p>
 2.
