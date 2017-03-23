@@ -13,26 +13,21 @@ Kurssilla toteutettiin Arduino kehitysalustalla opiskelijoiden ideoita IoT-laitt
 
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/2.jpg "3D-tulostettu alusta By Joona Leppälahti")
 
-2. 8 kappaletta 1.5V sormipattereita kytkettynä sarjaan niin että saadaan 12 volttia.
+**Kuva 2** 8 kappaletta 1.5V sormipattereita kytkettynä sarjaan niin että saadaan 12 volttia.
 
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/5.jpg "Paristoilla virtaa tuulettimelle")
 
-3. Huike HK3FF-DC5V-SHG Rele jossa led kertoo onko virta päällä vai pois.
+**Kuva 3** Huike HK3FF-DC5V-SHG Rele jossa led kertoo onko virta päällä vai pois.
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/3.jpg "Käyttöön lyötynyt kahden releen piiri josta käytetään vain yhtä")
 
-4. 120 PWM Tuuletin (12V, 0,6A)
-<p align="center">
-  <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/4.jpg" width="600"/>
-</p>
-Testausvaihe
-<p align="center">
-  <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/6.jpg" width="600"/>
-</p>
-Kokonaisuus
-<p align="center">
-  <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/1.jpg" width="600"/>
-</p>
-Yksinkertaistettu kytkentäkaavio
-<p align="center">
-  <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/999.jpg" width="600"/>
-</p>
+**Kuva 4** 120 PWM Tuuletin (12V, 0,6A)
+![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/4.jpg "Tietokoneen kotelotuuletin")
+
+**Kuva 5** Testausvaihe
+![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/6.jpg "")
+
+**Kuva 6** Kokonaisuus
+![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/1.jpg "")
+
+**Kuva 7** Yksinkertaistettu kytkentäkaavio
+![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/999.jpg "Kytkentäkaavio")
