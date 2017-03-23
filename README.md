@@ -8,7 +8,7 @@ Kurssilla toteutettiin Arduino kehitysalustalla opiskelijoiden ideoita IoT-laitt
 
 ## Osat
 
-1. 3D-tulostettu alusta ja Arduino UNO Freaduino v 1.8.1 (Joona Leppälahden Blenderillä luoma alusta joka on tulostettu Haaga-Helia AMK:n 3D-laboratoriossa.
+**Kuva 1** 3D-tulostettu alusta ja Arduino UNO Freaduino v 1.8.1 (Joona Leppälahden Blenderillä luoma alusta joka on tulostettu Haaga-Helia AMK:n 3D-laboratoriossa.
 
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/2.jpg "3D-tulostettu alusta By Joona Leppälahti")
 
