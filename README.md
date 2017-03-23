@@ -1,6 +1,10 @@
 # Iot-tuuletin, jäähdytä kaveria kun hän käy kuumana
 
-Päätimme toteuttaa IoT-kurssilla ryhmän jäsenen Jori Laineen idean tuulettimesta, jonka toinen voi netin yli laittaa käyntiin. Tuuletinta hallitaan tällä hetkellä nettisivun kautta.
+Päätimme toteuttaa Tero Karvisen pitämällä IoT-kurssilla Haaga-Helia amk:ssa Arctic ryhmän jäsenen Jori Laineen idean tuulettimesta, IoT-tuuletin, jota voi hallita netin yli. Viilennä kierroksia ottavaa pelikaveria mistä päin maailmaa tahansa.
+
+Kurssilla toteutettiin Arduino kehitysalustalla opiskelijoiden ideoita IoT-laitteista. Alussa asennettin Arduino kehitysohjelmisto Arduino IDE ja  http://iot.botbook.com/
+
+http://terokarvinen.com/2016/internet-of-things-tyopaja-ict8tn017-1-intensiiviviikon-w12
 
 ## Osat
 
