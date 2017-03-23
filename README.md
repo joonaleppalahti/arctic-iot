@@ -1,6 +1,6 @@
-# Iot-tuuletin, jäähdytä kaveria kun hän käy kuumana
+# IoT-tuuletin, jäähdytä kaveria kun hän käy kuumana
 
-## Arctic
+## IoT-tuuletin työryhmä
 * Eero Kolkki
 * Jori Laine
 * Joona Leppälahti
