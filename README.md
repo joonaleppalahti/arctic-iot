@@ -8,10 +8,19 @@ Päätimme toteuttaa IoT-kurssilla ryhmän jäsenen Jori Laineen idean tuulettim
 <p align="center">
   <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/2.jpg" width="600"/>
 </p>
-2.
-
-3.
-
-4.
-
-5.
+2. 8 kappaletta 1.5V sormipattereita
+<p align="center">
+  <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/5.jpg" width="600"/>
+</p>
+3. Huike HK3FF-DC5V-SHG
+<p align="center">
+  <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/3.jpg" width="600"/>
+</p>
+Testausvaihe
+<p align="center">
+  <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/6.jpg" width="600"/>
+</p>
+Kokonaisuus
+<p align="center">
+  <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/1.jpg" width="600"/>
+</p>
