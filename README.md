@@ -35,12 +35,12 @@ Kurssilla toteutettiin Arduino kehitysalustalla opiskelijoiden ideoita IoT-laitt
 
 **Kuva 5** Testausvaihe
 
-![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/6.jpg "")
+![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/6.jpg "Arduino, Rele ja paristot")
 
 
 **Kuva 6** Kokonaisuus
 
-![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/1.jpg "")
+![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/1.jpg "Tuuletin valmis")
 
 
 **Kuva 7** Yksinkertaistettu kytkentäkaavio
