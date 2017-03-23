@@ -8,7 +8,7 @@ Päätimme toteuttaa IoT-kurssilla ryhmän jäsenen Jori Laineen idean tuulettim
 <p align="center">
   <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/2.jpg" width="600"/>
 </p>
-2. 8 kappaletta 1.5V sormipattereita
+2. 8 kappaletta 1.5V sormipattereita kytkettynä sarjaan niin että saadaan 12 volttia.
 <p align="center">
   <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/5.jpg" width="600"/>
 </p>
