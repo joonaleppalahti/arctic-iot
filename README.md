@@ -30,6 +30,7 @@ Kurssilla toteutettiin Arduino kehitysalustalla opiskelijoiden ideoita IoT-laitt
 
 
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/6.jpg "Arduino, Rele ja paristot")
+
 **Kuva 5** Testausvaihe
 
 
