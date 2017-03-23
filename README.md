@@ -2,16 +2,16 @@
 
 Päätimme toteuttaa Tero Karvisen pitämällä IoT-kurssilla Haaga-Helia amk:ssa Arctic ryhmän jäsenen Jori Laineen idean tuulettimesta, IoT-tuuletin, jota voi hallita netin yli. Viilennä kierroksia ottavaa pelikaveria mistä päin maailmaa tahansa.
 
-Kurssilla toteutettiin Arduino kehitysalustalla opiskelijoiden ideoita IoT-laitteista. Alussa asennettin Arduino kehitysohjelmisto Arduino IDE ja  http://iot.botbook.com/
+Kurssilla toteutettiin Arduino kehitysalustalla opiskelijoiden ideoita IoT-laitteista. Alussa asennettin Arduino kehitysohjelmisto Arduino IDE https://www.arduino.cc/en/Main/Software ja testi koodia sivulta http://iot.botbook.com/.
 
-http://terokarvinen.com/2016/internet-of-things-tyopaja-ict8tn017-1-intensiiviviikon-w12
+
 
 ## Osat
 
 1. 3D-tulostettu alusta ja Arduino UNO Freaduino v 1.8.1 (Joona Leppälahti loi alustan blenderillä ja sitten tulosti sen koulun tulostimella.)
-<p align="center">
-  <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/2.jpg" width="600"/>
-</p>
+
+![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/2.jpg "3D-tulostettu alusta By Joona Leppälahti")
+
 2. 8 kappaletta 1.5V sormipattereita kytkettynä sarjaan niin että saadaan 12 volttia.
 <p align="center">
   <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/5.jpg" width="600"/>
