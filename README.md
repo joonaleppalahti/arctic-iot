@@ -15,14 +15,15 @@ Kurssilla toteutettiin Arduino kehitysalustalla opiskelijoiden ideoita IoT-laitt
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/2.jpg "3D-tulostettu alusta By Joona Leppälahti")
 **Kuva 1**
 3D-tulostettu alusta ja Arduino UNO Freaduino v 1.8.1 (Joonan Blenderillä luoma alusta joka on tulostettu Haaga-Helian 3D-laboratoriossa.
-
+<br>
 
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/5.jpg "Paristoilla virtaa tuulettimelle")
 **Kuva 2** 8 kappaletta 1.5V sormiparistoja kytkettynä sarjaan niin että saadaan 12 volttia.
+<br>
 
-
-![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/3.jpg "Käyttöön lyötynyt kahden releen piiri josta käytetään vain yhtä")
+![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/3.jpg "Käyttöön lyötynyt kahden releen piiri josta käytetään vain yhtä")<br>
 **Kuva 3** Huike HK3FF-DC5V-SHG Rele jossa led kertoo onko virta päällä vai pois.
+<br>
 
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/4.jpg "Tietokoneen kotelotuuletin")
 **Kuva 4** 120 PWM Tuuletin (12V, 0,6A)
