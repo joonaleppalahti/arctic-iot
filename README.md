@@ -16,6 +16,10 @@ Päätimme toteuttaa IoT-kurssilla ryhmän jäsenen Jori Laineen idean tuulettim
 <p align="center">
   <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/3.jpg" width="600"/>
 </p>
+4. 120 PWM Tuuletin (12V, 0,6A)
+<p align="center">
+  <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/4.jpg" width="600"/>
+</p>
 Testausvaihe
 <p align="center">
   <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/6.jpg" width="600"/>
