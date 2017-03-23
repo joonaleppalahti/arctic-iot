@@ -14,12 +14,11 @@ Kurssilla toteutettiin Arduino kehitysalustalla opiskelijoiden ideoita IoT-laitt
 
 2. 8 kappaletta 1.5V sormipattereita kytkettynä sarjaan niin että saadaan 12 volttia.
 
-![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/5.jpg "")
+![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/5.jpg "Paristoilla virtaa tuulettimelle")
 
 3. Huike HK3FF-DC5V-SHG Rele jossa led kertoo onko virta päällä vai pois.
-<p align="center">
-  <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/3.jpg" width="600"/>
-</p>
+![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/3.jpg "Käyttöön lyötynyt kahden releen piiri josta käytetään vain yhtä")
+
 4. 120 PWM Tuuletin (12V, 0,6A)
 <p align="center">
   <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/4.jpg" width="600"/>
