@@ -5,7 +5,10 @@ Päätimme toteuttaa IoT-kurssilla ryhmän jäsenen Jori Laineen idean tuulettim
 ## Osat
 
 1.
-
+<p align="center">
+  <img src="/joonaleppalahti/arctic-iot/img/1.jpg" width="600"/>
+  <img src="/joonaleppalahti/arctic-iot/img/2.jpg" width="600"/>
+</p>
 2.
 
 3.
