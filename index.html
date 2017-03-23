@@ -1,0 +1,74 @@
+ <!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<title>Arctic IoT</title>
+</head>
+<body>
+<div class="wrapper">
+<button id="4" type="button" class="btn btn-primary btn-lg" data-toggle="tooltip" title="Hooray!" onclick="move()">Jäähdytä!</button>
+<!-- <button id="1" type="button" class="btn btn-danger btn-lg" data-toggle="tooltip" title="Noooooo!">Stop!</button> 
+-->
+</div>
+
+<div class=container id="myProgress">
+  <div id="myBar" class="progress-bar progress-bar-info progress-bar-striped " role="progressbar">0%</div>
+</div>
+
+<script>
+function move() {
+  var elem = document.getElementById("myBar");   
+  var width = 0;
+  var id = setInterval(frame, 100);
+  function frame() {
+    if (width >= 100) {
+      clearInterval(id);
+	send(2.2);
+
+	setTimeout(function(){
+	elem.style.width = 0; 
+      elem.innerHTML = 0;
+	}, 3000);
+
+    } else {
+      width++; 
+      elem.style.width = width + '%'; 
+      elem.innerHTML = width * 1  + '%';
+    }
+  }
+}
+
+	var url = 'http://one.api.botbook.com/add/KEwxB9snK9F/?x=';
+
+	function send4() {
+		send(4.4);
+	}
+
+	function send2() {
+		send(2.2);
+	}
+
+	function send(x) {
+		var corsOptions={
+			url: url+x,
+			type: "GET",
+		};
+		jQuery.ajax(corsOptions);
+	}
+	
+
+	function onReady() {
+		
+		$("#4").click(send4);
+		
+	}
+	jQuery(document).ready(onReady);
+</script>
+</body>
+</html> 

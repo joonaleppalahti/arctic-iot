@@ -1,0 +1,15 @@
+.wrapper {
+    text-align: center;
+    padding-top: 15%;
+}
+
+.btn {
+    padding: 20px; 
+    margin: 20px;
+}
+
+#myProgress {
+   border-style: solid;
+   padding: 0px;
+	text-align: center;
+}
