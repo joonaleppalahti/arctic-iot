@@ -8,14 +8,14 @@ Kurssilla toteutettiin Arduino kehitysalustalla opiskelijoiden ideoita IoT-laitt
 
 ## Osat
 
-1. 3D-tulostettu alusta ja Arduino UNO Freaduino v 1.8.1 (Joona Leppälahti loi alustan blenderillä ja sitten tulosti sen koulun tulostimella.)
+1. 3D-tulostettu alusta ja Arduino UNO Freaduino v 1.8.1 (Joona Leppälahden Blenderillä luoma alusta joka on tulostettu Haaga-Helia AMK:n 3D-laboratoriossa.
 
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/2.jpg "3D-tulostettu alusta By Joona Leppälahti")
 
 2. 8 kappaletta 1.5V sormipattereita kytkettynä sarjaan niin että saadaan 12 volttia.
-<p align="center">
-  <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/5.jpg" width="600"/>
-</p>
+
+![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/5.jpg "")
+
 3. Huike HK3FF-DC5V-SHG Rele jossa led kertoo onko virta päällä vai pois.
 <p align="center">
   <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/3.jpg" width="600"/>
