@@ -32,3 +32,7 @@ Kokonaisuus
 <p align="center">
   <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/1.jpg" width="600"/>
 </p>
+Yksinkertaistettu kytkentäkaavio
+<p align="center">
+  <img src="https://github.com/joonaleppalahti/arctic-iot/blob/master/img/999.jpg" width="600"/>
+</p>
