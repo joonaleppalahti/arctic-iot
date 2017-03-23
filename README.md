@@ -18,16 +18,21 @@ Kurssilla toteutettiin Arduino kehitysalustalla opiskelijoiden ideoita IoT-laitt
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/5.jpg "Paristoilla virtaa tuulettimelle")
 
 **Kuva 3** Huike HK3FF-DC5V-SHG Rele jossa led kertoo onko virta päällä vai pois.
+
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/3.jpg "Käyttöön lyötynyt kahden releen piiri josta käytetään vain yhtä")
 
 **Kuva 4** 120 PWM Tuuletin (12V, 0,6A)
+
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/4.jpg "Tietokoneen kotelotuuletin")
 
 **Kuva 5** Testausvaihe
+
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/6.jpg "")
 
 **Kuva 6** Kokonaisuus
+
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/1.jpg "")
 
 **Kuva 7** Yksinkertaistettu kytkentäkaavio
+
 ![alt text](https://github.com/joonaleppalahti/arctic-iot/blob/master/img/999.jpg "Kytkentäkaavio")
