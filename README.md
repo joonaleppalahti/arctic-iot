@@ -7,6 +7,8 @@
 
 Päätimme toteuttaa Tero Karvisen pitämällä IoT-kurssilla Haaga-Helia amk:ssa ryhmän jäsenen Jorin idean tuulettimesta, IoT-tuuletin, jota voi hallita netin yli. Viilennä kierroksia ottavaa pelikaveria mistä päin maailmaa tahansa.
 
+https://youtu.be/Ob1hNNp0XCA
+
 Kurssilla toteutettiin Arduino kehitysalustalla opiskelijoiden ideoita IoT-laitteista. Alussa asennettin Arduino kehitysohjelmisto Arduino IDE https://www.arduino.cc/en/Main/Software ja testi koodia sivulta http://iot.botbook.com/. Kurssin sivu: http://terokarvinen.com/2016/internet-of-things-tyopaja-ict8tn017-1-intensiiviviikon-w12
 
 
