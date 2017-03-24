@@ -1,15 +1,15 @@
-# IoT-tuuletin, jäähdytä kaveria kun hän käy kuumana
-
 ## Tuulettajat
 * Eero Kolkki - https://eerokolkki.wordpress.com/
 * Jori Laine - https://jorilaine.wordpress.com/
 * Joona Leppälahti - https://joonaleppalahti.wordpress.com/
 
+# IoT-tuuletin, jäähdytä kaveria kun hän käy kuumana
+
 Päätimme toteuttaa Tero Karvisen pitämällä IoT-kurssilla Haaga-Helia amk:ssa ryhmän jäsenen Jorin idean tuulettimesta, IoT-tuuletin, jota voi hallita netin yli. Viilennä kierroksia ottavaa pelikaveria mistä päin maailmaa tahansa.
 
 https://youtu.be/Ob1hNNp0XCA
 
-Kurssilla toteutettiin Arduino kehitysalustalla opiskelijoiden ideoita IoT-laitteista. Alussa asennettin Arduino kehitysohjelmisto Arduino IDE https://www.arduino.cc/en/Main/Software ja testi koodia sivulta http://iot.botbook.com/. Kurssin sivu: http://terokarvinen.com/2016/internet-of-things-tyopaja-ict8tn017-1-intensiiviviikon-w12
+Kurssilla toteutettiin Arduino kehitysalustalla opiskelijoiden ideoita IoT-laitteista. Alussa asennettin Arduino kehitysohjelmisto Arduino IDE https://www.arduino.cc/en/Main/Software ja testikoodia sivulta http://iot.botbook.com/. Kurssin sivu: http://terokarvinen.com/2016/internet-of-things-tyopaja-ict8tn017-1-intensiiviviikon-w12
 
 
 
